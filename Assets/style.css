@@ -12,6 +12,17 @@ textarea {
   padding: 10px;
 }
 
+/*added additional style*/
+header {
+  text-align: center;
+  background-color: lightblue;
+}
+
+#currentDay {
+  font-size: 40px;
+}
+
+
 .description {
   white-space: pre-wrap;
 }
